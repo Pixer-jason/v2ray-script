@@ -1,0 +1,28 @@
+ V2ray installation script by Pixer Jason
+
+1. bash <(curl -L -s https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls_bash_onekey/master/install.sh) | tee v2ray_ins.log
+
+VMESS COMMAND
+sudo -i
+cat v2ray_ins.log
+
+
+##################################
+       EASY V2RAY SCRIPT
+##################################
+
+2.bash <(curl -s -L https://git.io/v2ray.sh)
+
+
+VMESS COMMAND
+v2ray url 
+
+###############################
+
+重启 失败
+
+
+
+wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls_bash_onekey/master/install.sh" && chmod +x install.sh && bash install.sh
+
+
